@@ -75,12 +75,12 @@
           <version>3.8.0</version>
         </plugin>
         <plugin>
-          <artifactId>maven-surefire-plugin</artifactId>
+      <artifactId>maven-surefire-plugin</artifactId>
           <version>2.22.1</version>
-      <configuration>
+     <!--  <configuration>
 		  
 		  <suiteXmlFiles>${xmlSuiteFileName}</suiteXmlFiles>
-	  </configuration>
+	  </configuration>-->
       
         </plugin>
         <plugin>
